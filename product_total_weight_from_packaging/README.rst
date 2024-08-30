@@ -70,14 +70,14 @@ Authors
 Contributors
 ------------
 
--  Akim Juillerat <akim.juillerat@camptocamp.com>
--  Hughes Damry <hughes.damry@acsone.eu>
--  Duong (Tran Quoc) <duongtq@trobz.com>
+- Akim Juillerat <akim.juillerat@camptocamp.com>
+- Hughes Damry <hughes.damry@acsone.eu>
+- Duong (Tran Quoc) <duongtq@trobz.com>
 
 Other credits
 -------------
 
-The migration of this module from 14.0 to 16.0 was financially supported
+The migration of this module from 16.0 to 17.0 was financially supported
 by Camptocamp
 
 Maintainers
