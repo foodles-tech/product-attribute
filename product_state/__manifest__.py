@@ -9,7 +9,7 @@
     "category": "Product",
     "version": "17.0.1.2.1",
     "license": "AGPL-3",
-    "depends": ["product"],
+    "depends": ["product", "sales_team", "stock"],
     "data": [
         "data/product_state_data.xml",
         "security/product_state_security.xml",
